@@ -18,3 +18,15 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+.inform{
+  list-style: none;
+  display: block;
+  align-items:center;
+  }
+  .img__Flag {
+    width: 100px;
+    height: 60px;
+  }
+  .country-list{
+    list-style: none;
+  }
